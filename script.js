@@ -1,5 +1,5 @@
 //your JS code here. If required.
-JS:
+
 const codes = document.querySelectorAll(".code");
 
 // Auto-focus first box
